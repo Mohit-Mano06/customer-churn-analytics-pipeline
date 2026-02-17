@@ -1,0 +1,3 @@
+create database TelcoAnalyticsDB
+
+use database TelcoAnalyticsDB
