@@ -30,13 +30,17 @@ The dataset was used strictly for analytical demonstration and learning purposes
 * **Visualization:** Power BI Desktop
 * **Environment:** Jupyter Notebooks / VS Code
 
-## 📌 Key Business Insights
+## 📌 Key Business Highlights
 
-* **Overall Churn Rate:** Identified a **26.57%** churn rate across the customer base.
-* **Revenue Impact:** Quantified **$139K** in monthly revenue loss.
-* **Contract Risk:** Month-to-Month contracts contribute to **~86%** of total revenue leakage.
-* **High-Value Churn:** Identified **$25K** monthly loss from the top 25% high-value customers (CLV).
-* **Potential Recovery:** Modeled a retention strategy projecting **$40K+** in monthly revenue recovery.
+| Metric | Value | Business Impact |
+| :--- | :--- | :--- |
+| **Overall Churn Rate** | 📉 **26.57%** | Significant churn across the customer base. |
+| **Monthly Revenue Loss** | 💰 **$139K** | Direct impact on recurring profitability. |
+| **Contract Leakage** | 🧱 **~86%** | Majority of revenue loss comes from monthly contracts. |
+| **Recovery Potential** | 🚀 **$40K+** | Estimated monthly recovery via retention strategy. |
+
+> [!IMPORTANT]
+> **High-Value Churn Alert:** The top 25% of customers (by CLV) contribute **$25K** to monthly churn, representing a critical segment for prioritized retention.
 
 ## 🗄 SQL Views Created
 
@@ -121,10 +125,13 @@ The Power BI dashboard provides an executive-level view of churn performance and
 * **Contract Risk Analysis:** Comparison of revenue leakage between Month-to-Month, One Year, and Two Year contracts.
 * **Customer Value Segmentation:** Identification of high-value revenue leakage using CLV (Customer Lifetime Value) quartiles.
 
-### 🔹 Key Business Insight
+### � Key Strategic Insight
 
-> **Month-to-month contracts contribute ~86% of total revenue leakage with a 42.7% churn rate.**
-> A simulated retention strategy converting 50% of these to annual contracts could recover **~$40K monthly**.
+> [!TIP]
+> **Revenue Recovery Opportunity:**
+> Month-to-month contracts contribute **~86% of total revenue leakage** with a 42.7% churn rate.
+> A simulated retention strategy converting just **50%** of these to annual contracts could recover **~$40K monthly**.
 
 ---
+
 *Developed by [Mohit Mano](https://github.com/Mohit-Mano06)*
