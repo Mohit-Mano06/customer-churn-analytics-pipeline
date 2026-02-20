@@ -2,6 +2,7 @@
 
 An end-to-end data analytics project analyzing telecom customer churn to identify revenue leakage and high-risk customer segments using **Python**, **SQL Server**, and **Power BI**.
 
+
 ---
 
 ## 🔍 Project Objective
@@ -11,6 +12,16 @@ To analyze customer churn behavior, quantify revenue loss, and simulate data-dri
 ## 🏗 Architecture
 
 **Raw CSV** ➔ **Python (Pandas)** Data Cleaning ➔ **SQL Server** (Views & Analytics) ➔ **Power BI Dashboard**
+
+## 📚 Dataset Source
+
+This project uses the **Telco Customer Churn Dataset** publicly available on Kaggle.
+
+- Source: Telco Customer Churn  
+- Dataset Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data  
+- License: Public dataset used for educational and portfolio purposes  
+
+The dataset was used strictly for analytical demonstration and learning purposes.
 
 ## 🧰 Tech Stack
 
